@@ -1,0 +1,22 @@
+body
+{
+  background-image : url(images/bg.jpg);
+  background-repeat: repeat-x;
+}
+
+p
+{
+  color: #003366;
+  font-size: .9em;
+  line-height: 150%;
+  margin-top: 0;
+  margin-left: 25px;
+}
+
+h2
+{
+  color: #FFFFCC;
+  margin-bottom: 0;
+  padding: 5px 0px 3px 25px;
+  background-color: #999999;
+}

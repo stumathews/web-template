@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Conforming XHTML 1.0 Transitional Template</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="global.css" />
+</head>
+<body>
+<h1>This is the main heading of this page</h1>
+<h2>A little bit about this page</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae magna diam, sed blandit turpis. Sed sed tincidunt quam. In urna nisl, volutpat a ultrices et, congue gravida justo. Aenean volutpat erat nec nunc ultricies a congue mi hendrerit. Vivamus non quam nulla, a adipiscing velit. Vivamus sed elementum magna. Praesent nec porta orci. Aliquam nunc nulla, vestibulum at vestibulum vel, elementum in augue. Phasellus vitae lacus nunc, at rhoncus dui. Integer neque lacus, molestie vitae convallis at, scelerisque quis risus. Vivamus convallis sapien quis felis egestas ornare. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed nisi ligula, adipiscing quis tempus eu, condimentum interdum ante. Fusce interdum semper felis, et dignissim nisl convallis vel. Nulla elit neque, malesuada ac iaculis vel, imperdiet eget tellus.</p>
+</body>
+</html>
